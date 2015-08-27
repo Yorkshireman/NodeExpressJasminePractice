@@ -9,6 +9,11 @@ define(['app', 'jquery'], function (App, $) {
 
       expect(target.html()).toEqual("App Started!");
     });
+
+    it("says hello world", function(){
+      var page = "http://localhost:9876/";
+      expect(page).toContain("Hello World")
+    })
   });
 
 });
