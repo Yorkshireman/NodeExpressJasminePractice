@@ -1,0 +1,14 @@
+{
+  "name": "nodepractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node spec --verbose --autotest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
