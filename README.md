@@ -1,3 +1,3 @@
 # NodeExpressJasminePractice
-First Node js app, using TDD with jasmine-node.  
+First Node.js app, using TDD with jasmine-node.  
 Using Express.
